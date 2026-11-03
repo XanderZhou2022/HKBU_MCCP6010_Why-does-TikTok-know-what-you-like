@@ -4,8 +4,8 @@ Group 6 presents a 15-minute lesson on recommendation algorithms.
 
 ## Teaching materials
 
-- [Teaching script and presenter operations](TikTok_Lesson_Complete_Script_and_Operations.docx): spoken English and sentence-level cues for all 45 main lesson Parts and the six optional on-screen quiz Parts. Presenter actions use red text on fluorescent yellow backgrounds.
-- [Student learning guide](For_You_Group6_Student_Learning_Guide.docx): a four-page worksheet with matching page and Part references, activity instructions, calculation spaces and reflection questions.
+- Teaching script and presenter operations: [Word](TikTok_Lesson_Complete_Script_and_Operations.docx) | [PDF](TikTok_Lesson_Complete_Script_and_Operations.pdf). Spoken English and sentence-level cues for all 45 main lesson Parts and the six optional on-screen quiz Parts. Presenter actions use red text on fluorescent yellow backgrounds.
+- Student learning guide: [Word](For_You_Group6_Student_Learning_Guide.docx) | [PDF](For_You_Group6_Student_Learning_Guide.pdf). A four-page worksheet with matching page and Part references, activity instructions, calculation spaces and reflection questions.
 
 ## Online lesson
 
@@ -31,5 +31,5 @@ Selecting the on-screen quiz inserts six Parts: question 1 at Part 2, answer 1 a
 
 | Branch | Contents |
 | --- | --- |
-| `main` | Two Word documents and this guide |
+| `main` | Teacher and student guides in Word and PDF, plus this guide |
 | `gh-pages` | The published lesson webpage |
