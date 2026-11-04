@@ -23,6 +23,8 @@ The `gh-pages` branch contains the self-contained `index.html` and `.nojekyll`. 
 
 ## Kahoot
 
+D leads the complete 13:00 to 15:00 section, including the quiz, takeaways and questions. The teacher edition presents this as one continuous delivery script.
+
 The final quiz page contains a single button that opens the [prepared Kahoot](https://create.kahoot.it/creator/efcdbc1f-fce8-429b-95ba-f38bab97d8c2) in a new tab. Launch the game from Kahoot, then return to the lesson at `11 - Part 1`. Press Right once to open the takeaways at `11 - Part 2`.
 
 ## Branches
