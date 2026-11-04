@@ -21,6 +21,10 @@ The `gh-pages` branch contains the self-contained `index.html` and `.nojekyll`. 
 - Each Part fits the lesson viewport. Shared content stays in place between Parts.
 - At `11 - Part 1`, select **Open in Kahoot** to open the prepared quiz in a new tab. Return to the lesson after the game and press Right for the takeaways.
 
+## Classroom activities
+
+The webpage uses individual thinking and calculation followed by volunteer answers. The opening thinking period is 15 seconds, the individual ranking challenge is 60 seconds, and the final reflection allows 25 seconds of thinking followed by 15 seconds for a class answer. Every timer waits for a click.
+
 ## Kahoot
 
 D leads the complete 13:00 to 15:00 section, including the quiz, takeaways and questions. The teacher edition presents this as one continuous delivery script.
