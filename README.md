@@ -4,7 +4,7 @@ Group 6 presents a 15-minute lesson on recommendation algorithms.
 
 ## Teaching materials
 
-- Teaching script and presenter operations: [Word](TikTok_Lesson_Complete_Script_and_Operations.docx) | [PDF](TikTok_Lesson_Complete_Script_and_Operations.pdf). Spoken English and sentence-level cues for all 45 main lesson Parts and the six optional on-screen quiz Parts. Presenter actions use red text on fluorescent yellow backgrounds.
+- Teaching script and presenter operations: [Word](TikTok_Lesson_Complete_Script_and_Operations.docx) | [PDF](TikTok_Lesson_Complete_Script_and_Operations.pdf). Spoken English and sentence-level cues for every lesson page and Part. Presenter actions use red text on fluorescent yellow backgrounds.
 - Student learning guide: [Word](For_You_Group6_Student_Learning_Guide.docx) | [PDF](For_You_Group6_Student_Learning_Guide.pdf). A four-page worksheet with matching page and Part references, activity instructions, calculation spaces and reflection questions.
 
 ## Online lesson
@@ -19,13 +19,11 @@ The `gh-pages` branch contains the self-contained `index.html` and `.nojekyll`. 
 - Press **O** to choose a specific page and Part, **F** for fullscreen, and **N** for the current Part's spoken lines and highlighted operation cues. Notes are visible on the current screen; close them before projecting.
 - Click a countdown marked **Start** to begin. Click **Pause** or **Resume** as needed. Opening a page, navigating, returning to an activity or resetting never starts a countdown.
 - Each Part fits the lesson viewport. Shared content stays in place between Parts.
-- Set separate Kahoot host and participant links in Presentation settings, or select **Use the on-screen quiz instead** at `11 - Part 1`.
+- At `11 - Part 1`, select **Open in Kahoot** to open the prepared quiz in a new tab. Return to the lesson after the game and press Right for the takeaways.
 
-## Quiz routes
+## Kahoot
 
-With Kahoot, pressing Right after the quiz moves from `11 - Part 1` to the takeaways at `11 - Part 2`.
-
-Selecting the on-screen quiz inserts six Parts: question 1 at Part 2, answer 1 at Part 3, question 2 at Part 4, answer 2 at Part 5, question 3 at Part 6 and answer 3 at Part 7. The takeaways then appear at `11 - Part 8`. Right follows this whole sequence; choosing an answer on screen is optional.
+The final quiz page contains a single button that opens the [prepared Kahoot](https://create.kahoot.it/creator/efcdbc1f-fce8-429b-95ba-f38bab97d8c2) in a new tab. Launch the game from Kahoot, then return to the lesson at `11 - Part 1`. Press Right once to open the takeaways at `11 - Part 2`.
 
 ## Branches
 
